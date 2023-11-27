@@ -6,5 +6,6 @@
 
 #define WELCOME  "Bienvenue dans le Shell ENSEA. \nPour quitter, tapez 'exit'. \n"
 
-
 #define REGULAR_PROMPT "enseash %  "
+
+#define MAX_SIZE 128

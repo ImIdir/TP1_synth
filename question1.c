@@ -1,4 +1,4 @@
-#include "fonction.h"
+#include "fonctions.h"
 
 
 int main(void){
