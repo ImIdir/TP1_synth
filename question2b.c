@@ -14,8 +14,5 @@ int main(void){
 	//Earse the last element
 	commande[commande_size-1] = '\0';
 	
-	//Editing the command prompt content
-	write(STDOUT_FILENO, commande, commande_size);
-	
 	execlp(commande, commande, NULL);
 }
