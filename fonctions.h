@@ -16,10 +16,4 @@
 #define END_PROMPT "] % "
 
 #define MAX_SIZE 128
-
-struct background_process {
-	int pid;
-	struct timespec timestart;
-	char * progName;
-	struct background_process * next;
-};
+#define MAX_ARG 8
