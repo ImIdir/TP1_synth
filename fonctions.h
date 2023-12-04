@@ -5,6 +5,7 @@
 #include <string.h>
 #include <sys/wait.h>
 #include <time.h>
+#include <fcntl.h>
 
 #define WELCOME "Bienvenue dans le Shell ENSEA. \n Pour quitter, tapez 'exit'. \n"
 #define GOODBYE "Bye bye... \n"

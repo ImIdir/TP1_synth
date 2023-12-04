@@ -1,0 +1,23 @@
+total 163
+-rwxrwx--- 1 root vboxsf   240 déc.   4 11:54  filelist.txt
+-rwxrwx--- 1 root vboxsf   504 déc.   4 11:52 fonctions.h
+-rwxrwx--- 1 root vboxsf  8304 déc.   4 08:31 question1
+-rwxrwx--- 1 root vboxsf   162 déc.   4 08:31 question1.c
+-rwxrwx--- 1 root vboxsf  8400 déc.   4 08:31 question2a
+-rwxrwx--- 1 root vboxsf   347 déc.   4 08:31 question2a.c
+-rwxrwx--- 1 root vboxsf  8448 déc.   4 08:31 question2b
+-rwxrwx--- 1 root vboxsf   423 déc.   4 08:31 question2b.c
+-rwxrwx--- 1 root vboxsf  8480 déc.   4 08:31 question2c
+-rwxrwx--- 1 root vboxsf   792 déc.   4 08:31 question2c.c
+-rwxrwx--- 1 root vboxsf  8568 déc.   4 10:43 question3
+-rwxrwx--- 1 root vboxsf  1549 déc.   4 08:37 question3.c
+-rwxrwx--- 1 root vboxsf 12856 déc.   4 09:37 question4
+-rwxrwx--- 1 root vboxsf  1610 déc.   4 09:36 question4.c
+-rwxrwx--- 1 root vboxsf 12864 déc.   4 10:21 question5
+-rwxrwx--- 1 root vboxsf  1681 déc.   4 10:21 question5.c
+-rwxrwx--- 1 root vboxsf 12888 déc.   4 11:21 question6
+-rwxrwx--- 1 root vboxsf  1946 déc.   4 11:44 question6.c
+-rwxrwx--- 1 root vboxsf 13056 déc.   4  2023 question7
+-rwxrwx--- 1 root vboxsf  2389 déc.   4  2023 question7.c
+-rwxrwx--- 1 root vboxsf   245 déc.   4 12:10 test
+-rwxrwx--- 1 root vboxsf  8568 déc.   4 10:53 testq6gcc
