@@ -4,6 +4,7 @@
 #include <sys/types.h> 
 #include <string.h>
 #include <sys/wait.h>
+#include <time.h>
 
 #define WELCOME "Bienvenue dans le Shell ENSEA. \n Pour quitter, tapez 'exit'. \n"
 #define GOODBYE "Bye bye... \n"
@@ -15,3 +16,10 @@
 #define END_PROMPT "] % "
 
 #define MAX_SIZE 128
+
+struct background_process {
+	int pid;
+	struct timespec timestart;
+	char * progName;
+	struct background_process * next;
+};

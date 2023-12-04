@@ -30,6 +30,8 @@ int main(void){
 		pid = fork();
 		if(pid==0){
 			//Execution of the child
+            printf("pid child %d\n", getpid());
+            sleep(20);
 			execlp(commande, commande, NULL);
 		} 
 		
