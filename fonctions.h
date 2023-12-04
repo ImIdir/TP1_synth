@@ -10,5 +10,8 @@
 #define EXIT "exit"
 
 #define REGULAR_PROMPT "enseash %  "
+#define EXITED_PROMPT "enseash [exit : "
+#define SIGNALED_PROMPT "enseash [sign : "
+#define END_PROMPT "] % "
 
 #define MAX_SIZE 128
